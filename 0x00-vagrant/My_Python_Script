@@ -1,0 +1,30 @@
+for i in range (10):
+#     i = (i*i)
+#     sum = sum (i)
+#     print (sum)
+    
+    
+# num= int(input("Enter value of num: "))
+# sum = 0
+# for i in range(1, num+1):
+#     sum = sum+(i*i)
+# print("Sum of squares = ", sum)
+
+
+# a = int(input("What is the first Number: ")) 
+# b = int(input("What is the Second Number: ")) 
+# c = int(input("What is the third Number: ")) 
+
+# S = sorted([a,b,c])
+
+# print (S)
+
+# num_1 = 0
+# while True:
+#     num_2 = int(input("Enter a Value: "))
+#     if num_2 < 0:
+#         print (num_1)
+#         break
+#     else:
+#         num_1 = num_1 + num_2
+#         print (num_
